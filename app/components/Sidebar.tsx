@@ -37,7 +37,7 @@ const items = [
   },
   {
     title: "Logs",
-    url: "#",
+    url: "/home/logs",
     icon: Calendar,
   },
   {
